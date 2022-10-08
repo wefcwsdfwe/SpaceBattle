@@ -1,0 +1,15 @@
+/home/enikeev00/Desktop/SpaceBattle/bin/Debug/net6.0/SpaceBattle
+/home/enikeev00/Desktop/SpaceBattle/bin/Debug/net6.0/SpaceBattle.deps.json
+/home/enikeev00/Desktop/SpaceBattle/bin/Debug/net6.0/SpaceBattle.runtimeconfig.json
+/home/enikeev00/Desktop/SpaceBattle/bin/Debug/net6.0/SpaceBattle.dll
+/home/enikeev00/Desktop/SpaceBattle/bin/Debug/net6.0/ref/SpaceBattle.dll
+/home/enikeev00/Desktop/SpaceBattle/bin/Debug/net6.0/SpaceBattle.pdb
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/SpaceBattle.csproj.AssemblyReference.cache
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/SpaceBattle.GeneratedMSBuildEditorConfig.editorconfig
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/SpaceBattle.AssemblyInfoInputs.cache
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/SpaceBattle.AssemblyInfo.cs
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/SpaceBattle.csproj.CoreCompileInputs.cache
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/SpaceBattle.dll
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/ref/SpaceBattle.dll
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/SpaceBattle.pdb
+/home/enikeev00/Desktop/SpaceBattle/obj/Debug/net6.0/SpaceBattle.genruntimeconfig.cache
